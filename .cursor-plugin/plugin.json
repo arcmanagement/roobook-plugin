@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Search the RooBook library of the account you connect. Results include page numbers, EPUB links, image coordinates, and roobook:// links you can open in the Mac or iOS app. You can also save a private reading note on a book or a page. Sign-in happens on RooBook. This plugin does not ask for your RooBook password. Remove the plugin in Grok Bot to stop new calls. Access is limited to that one account.",
   "author": {
-    "name": "ArcManagement",
+    "name": "ArcManagement Inc.",
     "email": "support@roobook.app",
     "url": "https://roobook.app"
   },

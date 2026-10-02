@@ -1,5 +1,7 @@
 # RooBook for Grok Bot
 
+Publisher: ArcManagement Inc., the operator of RooBook (https://roobook.app). Support: support@roobook.app.
+
 Grok Bot installs this plugin from the Cursor Marketplace. After you connect a RooBook account, the bot can list that account's books, search the full text, and save a private reading note.
 
 Server: `https://api.roobook.app/mcp`
