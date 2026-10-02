@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "roobook": {
+      "type": "http",
+      "url": "https://api.roobook.app/mcp"
+    }
+  }
+}
